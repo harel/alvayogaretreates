@@ -1,2 +1,3 @@
 # alvayogaretreates
-Website for Alva Yoga Retreates (alvayogaretreats.com
+Website for Alva Yoga Retreates (alvayogaretreats.com)
+
