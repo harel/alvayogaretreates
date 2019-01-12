@@ -87,6 +87,12 @@
         return false;
       });
 
+      /* Map Form Toggle
+      ========================================================*/
+      $('.map-icon').on('click',function (e) {
+          $('#conatiner-map').toggleClass('panel-show');
+          e.preventDefault();
+      });
 
 
   });      
